@@ -1,0 +1,17 @@
+C:\programacion1\mvcProyectoWeb\mvcProyectoWebAccesoDatos\bin\Debug\mvcProyectoWebAccesoDatos.dll
+C:\programacion1\mvcProyectoWeb\mvcProyectoWebAccesoDatos\bin\Debug\mvcProyectoWebAccesoDatos.pdb
+C:\programacion1\mvcProyectoWeb\mvcProyectoWebAccesoDatos\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\programacion1\mvcProyectoWeb\mvcProyectoWebAccesoDatos\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\programacion1\mvcProyectoWeb\mvcProyectoWebAccesoDatos\bin\Debug\Microsoft.Analytics.Types.dll
+C:\programacion1\mvcProyectoWeb\mvcProyectoWebAccesoDatos\bin\Debug\Microsoft.SqlServer.Server.dll
+C:\programacion1\mvcProyectoWeb\mvcProyectoWebAccesoDatos\bin\Debug\mvcProyecto.Models.dll
+C:\programacion1\mvcProyectoWeb\mvcProyectoWebAccesoDatos\bin\Debug\mvcProyectoWeb.Utilidades.dll
+C:\programacion1\mvcProyectoWeb\mvcProyectoWebAccesoDatos\bin\Debug\mvcProyecto.Models.pdb
+C:\programacion1\mvcProyectoWeb\mvcProyectoWebAccesoDatos\bin\Debug\mvcProyectoWeb.Utilidades.pdb
+C:\programacion1\mvcProyectoWeb\mvcProyectoWebAccesoDatos\bin\Debug\Microsoft.SqlServer.Server.pdb
+C:\programacion1\mvcProyectoWeb\mvcProyectoWebAccesoDatos\bin\Debug\Microsoft.SqlServer.Server.xml
+C:\programacion1\mvcProyectoWeb\mvcProyectoWebAccesoDatos\obj\Debug\mvcProyectoWeb.AccesoDatos.csproj.AssemblyReference.cache
+C:\programacion1\mvcProyectoWeb\mvcProyectoWebAccesoDatos\obj\Debug\mvcProyectoWeb.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\programacion1\mvcProyectoWeb\mvcProyectoWebAccesoDatos\obj\Debug\mvcProye.E177E565.Up2Date
+C:\programacion1\mvcProyectoWeb\mvcProyectoWebAccesoDatos\obj\Debug\mvcProyectoWebAccesoDatos.dll
+C:\programacion1\mvcProyectoWeb\mvcProyectoWebAccesoDatos\obj\Debug\mvcProyectoWebAccesoDatos.pdb

@@ -1,0 +1,10 @@
+C:\programacion1\mvcProyectoWeb\mvcProyecto.Models\bin\Debug\mvcProyecto.Models.dll
+C:\programacion1\mvcProyectoWeb\mvcProyecto.Models\bin\Debug\mvcProyecto.Models.pdb
+C:\programacion1\mvcProyectoWeb\mvcProyecto.Models\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\programacion1\mvcProyectoWeb\mvcProyecto.Models\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\programacion1\mvcProyectoWeb\mvcProyecto.Models\bin\Debug\Microsoft.Analytics.Types.dll
+C:\programacion1\mvcProyectoWeb\mvcProyecto.Models\obj\Debug\mvcProyecto.Models.csproj.AssemblyReference.cache
+C:\programacion1\mvcProyectoWeb\mvcProyecto.Models\obj\Debug\mvcProyecto.Models.csproj.CoreCompileInputs.cache
+C:\programacion1\mvcProyectoWeb\mvcProyecto.Models\obj\Debug\mvcProye.9509CAE4.Up2Date
+C:\programacion1\mvcProyectoWeb\mvcProyecto.Models\obj\Debug\mvcProyecto.Models.dll
+C:\programacion1\mvcProyectoWeb\mvcProyecto.Models\obj\Debug\mvcProyecto.Models.pdb
